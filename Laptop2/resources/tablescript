@@ -1,0 +1,3 @@
+ CREATE TABLE LAPTOP(laptopModelNo VARCHAR2(50),laptopModelName VARCHAR2(50),RAM VARCHAR2(50),OS VARCHAR2(50),Screen VARCHAR2(50),harddisk VARCHAR2(50),CPU VARCHAR2(50),laptopPrice NUMBER(20),quantity NUMBER(20));
+ 
+ CREATE TABLE Customer_Details(customer_id VARCHAR2(30),customer_name VARCHAR(30),address VARCHAR2(30),phone_number VARCHAR2(30),laptop_amount NUMBER);

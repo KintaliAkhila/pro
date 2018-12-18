@@ -1,0 +1,10 @@
+2018-12-17 11:04:49,145INFO[Log4JPropertyFileDemo]-do_something are:11.2
+2018-12-17 11:04:49,145ERROR[Log4JPropertyFileDemo]-value of x is null
+2018-12-17 11:05:38,163INFO[Log4JPropertyFileDemo]-do_something are:11.2
+2018-12-17 11:05:38,163ERROR[Log4JPropertyFileDemo]-value of x is null
+2018-12-17 11:05:47,135INFO[Log4JPropertyFileDemo]-do_something are:11.2
+2018-12-17 11:05:47,135ERROR[Log4JPropertyFileDemo]-value of x is null
+2018-12-18 16:04:16,112 ERROR [root]- ORA-01008: not all variables bound
+
+2018-12-18 16:05:11,947 ERROR [root]- ORA-01008: not all variables bound
+
